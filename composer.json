@@ -1,6 +1,7 @@
 {
   "name": "ineventapp/dynamics-webapi-toolkit",
   "description": "Web API toolkit for Microsoft Dynamics 365 and Dynamics CRM",
+  "homepage": "https://github.com/ineventapp/dynamics-webapi-toolkit",
   "type": "library",
   "license": "MIT",
   "authors": [
